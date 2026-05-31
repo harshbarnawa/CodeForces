@@ -14,14 +14,17 @@ int main(){
     cin>>s;
         int sum1 = 0;
         int sum2 = 0;
-    for(char c : s){
-        sum1 += (c - '0');
-    }
+
+
+   
     for(int i = 0;i<s.length()/2;i++){
+        sum1 += (s[i] - '0');
+    }
+    for(int i = s.length()/2;i<s.length();i++){
         sum2 += (s[i] - '0');
     }
 
-    cout << ((sum1/2)==sum2?"YES\n":"NO\n");
+    cout << (sum1==sum2?"YES\n":"NO\n");
   }
 
     return 0;
