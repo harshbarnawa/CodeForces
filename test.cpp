@@ -13,6 +13,17 @@ int main(){
     int n;
     cin >> n;
 
+    vector<int> v;
+
+    vector<int> v(n);
+for(int i = 0; i < n; i++){
+    cin >> v[i];
+}
+
+for(auto x : v){
+    cout << x << ' ';
+}
+
 
   }
 
