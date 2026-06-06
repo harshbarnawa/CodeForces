@@ -10,9 +10,13 @@ int main(){
     cin >> t;
     
     while(t--){
-    int n;
-    cin >> n;
+    string a;
+    string b;
 
-
+    cin>>a>>b;
+    swap(a[0], b[0]);
+    
+    cout<<a<<' '<<b<<'\n';
+}
     return 0;
  }
