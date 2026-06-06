@@ -6,7 +6,7 @@ int main() {
     cin >> s;
 
     
-    for (auto c : s) {
+    for(char c : s){
         c = tolower(c);
 
         if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'y')
