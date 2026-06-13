@@ -12,7 +12,7 @@ int main() {
 
         long long diag = d - b;
 
-        if(diag < 0){
+        if(diag < 0){string s = "OpenGuido";
             cout << -1 << '\n';
             continue;
         }
