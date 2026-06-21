@@ -12,14 +12,25 @@ int main() {
         int n;
         cin >> n;
 
-        int mn = INT_MAX;
-        for(int i = 0; i < n; i++) {
-            int x;
-            cin >> x;
-            mn = min(mn, x);
+        vector<int> a(n);
+
+        for (int i = 0; i < n; i++) {
+            cin >> a[i];
         }
 
-        cout <<(mn == 1 ? "Yes" : "No") << '\n';
+        bool ok = false;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (__gcd(a[i], a[j]) <= 2) {
+                    ok = true;
+                    break;
+                }
+            }
+            if (ok) break;
+        }
+
+        cout << (ok ? "Yes" : "No") << '\n';
     }
 
     return 0;
