@@ -10,8 +10,10 @@ int main(){
     cin >> t;
 
     while(t--){
-
-
+        int x,y;
+        cin>>x>>y;
+//if divides so x can == y
+        cout <<((x % y== 0)? "YES\n": "NO\n");
     }
 
     return 0;

@@ -10,8 +10,15 @@ int main(){
     cin >> t;
 
     while(t--){
+        int x;
+        cin >> x;
 
+        long long y = 11;
+        while(y <= x){
+        y = (y * 10) - 9; //11, 101, 1001 idea
+        }
 
+        cout << y << '\n';
     }
 
     return 0;
