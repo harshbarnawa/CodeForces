@@ -1,0 +1,5 @@
+#!/bin/sh
+# Auto-generate README before every commit
+# Setup: git config core.hooksPath .githooks
+python script.py
+git add README.md
