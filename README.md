@@ -1,137 +1,147 @@
 <div align="center">
 
-# <img src="https://codeforces.org/favicon.ico" width="30" /> CodeForces Solutions
+# Competitive Programming Solutions
 
-### A curated collection of **164+** competitive programming solutions in C++
+### A growing collection of **C++** solutions with organized problem analysis and automated repository statistics.
 
-[![GitHub stars](https://img.shields.io/github/stars/Devraj-jha/CodeForces-Problem?style=flat&logo=github&color=yellow)](https://github.com/Devraj-jha/CodeForces-Problem/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Devraj-jha/CodeForces-Problem?style=flat&logo=github&color=blue)](https://github.com/Devraj-jha/CodeForces-Problem/network/members)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Devraj-jha/CodeForces-Problem?style=flat&color=green)](https://github.com/Devraj-jha/CodeForces-Problem/commits)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-blue?style=flat&logo=cplusplus)](https://isocpp.org/)
+![GitHub last commit](https://img.shields.io/github/last-commit/harshbarnawa/Codeforces?style=for-the-badge\&color=brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/harshbarnawa/Codeforces?style=for-the-badge\&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/harshbarnawa/Codeforces?style=for-the-badge\&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/harshbarnawa/Codeforces?style=for-the-badge\&color=orange)
+![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge\&logo=cplusplus)
 
----
+### Solving • Learning • Improving Every Day
 
-Solutions organized by **difficulty rating** with reusable skeletons and templates
-for fast contest-solving.
+*This repository is automatically updated with analytics, charts and solution statistics.*
 
 </div>
 
-## Progress at a Glance
+---
+
+# Repository Statistics
 
 ```
-Rating        Solved   Progress
-────────────────────────────────────────────────────────
- 800  ★☆☆☆☆       115   ██████████████████████████████
- 900  ★★☆☆☆        13   ████░░░░░░░░░░░░░░░░░░░░░░░░░░
- 1000 ★★★☆☆         8   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
- 1200 ★★★★☆         6   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- Contests           17   █████░░░░░░░░░░░░░░░░░░░░░░░░░
-────────────────────────────────────────────────────────
- TOTAL             164   solutions across 5 categories
+Total Problems      : 164
+Difficulty Levels   : 4
+Contest Solutions   : 17
+Language            : C++
+Last Updated        : Auto Generated
 ```
 
-## Repository Structure
+## Progress
 
 ```
-CodeForces/
-├── 📂 800 Rated/                   # 115 solutions
-│   ├── Brute-Force/
-│   ├── Dynamic-Programming/
-│   ├── Games/
-│   ├── Implementation/
-│   ├── Math/
-│   ├── Sorting/
-│   ├── String/
-│   └── TwoPointer/
-├── 📂 900 Rated/                   # 13 solutions
-│   ├── games/
-│   ├── greedy/
-│   ├── Implemention/
-│   ├── Math/
-│   ├── Sorting/
-│   └── String/
-├── 📂 1000/                        # 8 solutions
-│   ├── Dynamic-Programming/
-│   ├── math/
-│   ├── String/
-│   └── TwoPointer/
-├── 📂 1200 Rated/                  # 6 solutions
-│   ├── ConstructiveAlgorithm/
-│   ├── Math/
-│   ├── Sorting/
-│   └── String/
-├── 📂 Contest Ques/                # 17 solutions
-│   ├── DIV .3_30June/
-│   ├── DIV. 2_07June/
-│   ├── DIV. 2_23May/
-│   ├── DIV. 2_26July/
-│   ├── DIV. 2_27June/
-│   └── DIV. 2_28June/
-├── 📄 Skeleton.cpp                  # Fast I/O skeleton template
-├── 📄 vectorTest.cpp                # Vector input template
-├── 📄 test.cpp
-└── 📄 README.md
+Rating      Solved      Progress
+
+800         115         ████████████████████████████
+900          13         ████
+1000          8         ███
+1200          6         ██
+Contest      17         █████
 ```
 
-## Quick Start Skeleton
+---
 
-Get started solving in seconds with this fast I/O template:
+# Repository Structure
+
+```
+Codeforces
+│
+├── 800 Rated
+├── 900 Rated
+├── 1000 Rated
+├── 1200 Rated
+├── Contest Problems
+│
+├── Skeleton.cpp
+├── vectorTest.cpp
+├── test.cpp
+└── README.md
+```
+
+---
+
+# Fast I/O Template
 
 ```cpp
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    int n;
-    cin >> n;
-
-    // your solution here
     return 0;
 }
 ```
 
-> **Tip:** Use `Skeleton.cpp` for basic problems and `vectorTest.cpp` for
-> problems requiring array/vector input.
+---
 
-## Built With
+# Topics Covered
 
-- **Language:** C++ (C++17)
-- **Platform:** [Codeforces](https://codeforces.com/)
-- **IDE:** VS Code
+* Implementation
+* Math
+* Greedy
+* Dynamic Programming
+* Binary Search
+* Brute Force
+* Constructive Algorithms
+* Sorting
+* Strings
+* Two Pointers
+* Games
+* Data Structures
 
-## Topics Covered
+---
 
-| Difficulty | Typical Topics |
-|:----------:|----------------|
-| **800** | Implementation, Math basics, Strings, Brute Force, Sorting |
-| **900** | Greedy, Sorting, Strings, Math |
-| **1000** | Binary Search, Dynamic Programming, Strings, Two Pointers |
-| **1200** | Constructive Algorithms, Math, Binary Search, Greedy |
-
-## How to Compile & Run
+# Compile & Run
 
 ```bash
-# Compile
-g++ -std=c++17 -O2 -o solution solution.cpp
+g++ -std=c++17 -O2 solution.cpp -o solution
 
-# Run
 ./solution
-
-# Run with input file
-./solution < input.txt
 ```
 
-## License
+---
 
-This project is open source. Feel free to use these solutions for learning!
+# Repository Features
+
+* Organized by difficulty
+* Clean C++17 solutions
+* Fast I/O template
+* Contest solutions
+* Topic-wise organization
+* Auto-generated statistics
+* Auto-generated README
+* Automatic graphs & analytics (via GitHub Actions)
+
+---
+
+# Future Analytics
+
+This README is designed to be updated automatically and will include:
+
+* Total Problems Solved
+* Topic-wise Analysis
+* Difficulty Distribution
+* Rating Histogram
+* Recently Solved Problems
+* Hardest Problems
+* Monthly Activity
+* Streak Statistics
+* Repository Growth
+* Language Statistics
+* Auto-generated Charts
 
 ---
 
 <div align="center">
 
-**Author: Harsh Barnawa**
+## Author
+
+# Harsh Barnawa
+
+**Competitive Programming • Open Source • C++**
+
 
 </div>
