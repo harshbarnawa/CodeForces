@@ -1,0 +1,1355 @@
+{
+  "script.py": {
+    "contestId": 2095,
+    "index": "I",
+    "name": "Mysterious Script",
+    "type": "PROGRAMMING",
+    "tags": [
+      "*special",
+      "expression parsing",
+      "number theory"
+    ]
+  },
+  "1000\\math\\theatreSqr.cpp": {
+    "contestId": 649,
+    "index": "A",
+    "name": "\u041b\u044e\u0431\u0438\u043c\u044b\u0435 \u0447\u0438\u0441\u043b\u0430 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u0430",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1000\\String\\chatRoom.cpp": {
+    "contestId": 58,
+    "index": "A",
+    "name": "Chat room",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1000\\String\\stringTask.cpp": {
+    "contestId": 118,
+    "index": "A",
+    "name": "String Task",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1000\\String\\swapDelete.cpp": {
+    "contestId": 649,
+    "index": "A",
+    "name": "\u041b\u044e\u0431\u0438\u043c\u044b\u0435 \u0447\u0438\u0441\u043b\u0430 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u0430",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1000\\TwoPointer\\trafficLight.cpp": {
+    "contestId": 1744,
+    "index": "C",
+    "name": "Traffic Light",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1200 Rated\\Math\\additionOnSegment.cpp": {
+    "contestId": 2170,
+    "index": "B",
+    "name": "Addition on a Segment",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1200 Rated\\Sorting\\ThreeActivities.cpp": {
+    "contestId": 1914,
+    "index": "D",
+    "name": "Three Activities",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1200 Rated\\String\\MakeThemEqual.cpp": {
+    "contestId": 1594,
+    "index": "C",
+    "name": "Make Them Equal",
+    "type": "PROGRAMMING",
+    "points": 1500.0,
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "800 Rated\\Brute-Force\\Beautiful_year2.cpp": {
+    "contestId": 271,
+    "index": "A",
+    "name": "Beautiful Year",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "800 Rated\\Brute-Force\\dontCount.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Brute-Force\\ExtremelyRound.cpp": {
+    "contestId": 1766,
+    "index": "A",
+    "name": "Extremely Round",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "800 Rated\\Brute-Force\\loveUsername.cpp": {
+    "contestId": 155,
+    "index": "A",
+    "name": "I_love_\\%username\\%",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "800 Rated\\Brute-Force\\Soldier_Bananas.cpp": {
+    "contestId": 546,
+    "index": "A",
+    "name": "Soldier and Bananas",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "800 Rated\\Brute-Force\\spyDetected.cpp": {
+    "contestId": 1512,
+    "index": "A",
+    "name": "Spy Detected!",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "800 Rated\\Brute-Force\\waterMel.cpp": {
+    "contestId": 4,
+    "index": "A",
+    "name": "Watermelon",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "800 Rated\\Dynamic-Programming\\DoremysPaint.cpp": {
+    "contestId": 1764,
+    "index": "A",
+    "name": "Doremy's Paint",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "800 Rated\\Dynamic-Programming\\SeqGame.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Dynamic-Programming\\TwinPermutations.cpp": {
+    "contestId": 1831,
+    "index": "A",
+    "name": "Twin Permutations",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "800 Rated\\Games\\gameInt.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\antonLetter.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\antonLetter2.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\BearAndBrother.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\beautifulMatrix.cpp": {
+    "contestId": 263,
+    "index": "A",
+    "name": "Beautiful Matrix",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\blackSquare.cpp": {
+    "contestId": 431,
+    "index": "A",
+    "name": "Black Square",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\blankSpace.cpp": {
+    "contestId": 1829,
+    "index": "B",
+    "name": "Blank Space",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\Calculating_fn.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\daytonaCost.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\DislikeOfThrees.cpp": {
+    "contestId": 1560,
+    "index": "A",
+    "name": "Dislike of Threes",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\EasyP.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\georgeAccommodation.cpp": {
+    "contestId": 467,
+    "index": "A",
+    "name": "George and Accommodation",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\isYourHorseHoe.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\Magnet.cpp": {
+    "contestId": 344,
+    "index": "A",
+    "name": "Magnets",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\NearlyLuckyNum.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\oddOneOut.cpp": {
+    "contestId": 1915,
+    "index": "A",
+    "name": "Odd One Out",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\Panoramix.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\plusOrMinus.cpp": {
+    "contestId": 1807,
+    "index": "A",
+    "name": "Plus or Minus",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\policeRecruit.cpp": {
+    "contestId": 427,
+    "index": "A",
+    "name": "Police Recruits",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\QueueAtTheSchool.cpp": {
+    "contestId": 266,
+    "index": "B",
+    "name": "Queue at the School",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths"
+    ]
+  },
+  "800 Rated\\Implementation\\spellCheck.cpp": {
+    "contestId": 1722,
+    "index": "A",
+    "name": "Spell Check",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "800 Rated\\Implementation\\StoneOnTable.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\ultraFastMaths.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\vanyaFence.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\wannaBeGuySet.cpp": {
+    "contestId": 2029,
+    "index": "A",
+    "name": "Set",
+    "type": "PROGRAMMING",
+    "points": 750.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Implementation\\WrongSub.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\again25.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\AmbitiousKid.cpp": {
+    "contestId": 1866,
+    "index": "A",
+    "name": "Ambitious Kid",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\arrayColor.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\balancedArray.cpp": {
+    "contestId": 1343,
+    "index": "B",
+    "name": "Balanced Array",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\candiesTwoSIster.cpp": {
+    "contestId": 1810,
+    "index": "B",
+    "name": "Candies",
+    "type": "PROGRAMMING",
+    "points": 750.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "800 Rated\\Math\\designTut.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\DieRoll.cpp": {
+    "contestId": 9,
+    "index": "A",
+    "name": "Die Roll",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math",
+      "probabilities"
+    ]
+  },
+  "800 Rated\\Math\\DivisibilityPrblm.cpp": {
+    "contestId": 1328,
+    "index": "A",
+    "name": "Divisibility Problem",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\dominoPiling.cpp": {
+    "contestId": 50,
+    "index": "A",
+    "name": "Domino piling",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\Elephant2.cpp": {
+    "contestId": 617,
+    "index": "A",
+    "name": "Elephant",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\Elephant3.cpp": {
+    "contestId": 617,
+    "index": "A",
+    "name": "Elephant",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\everybodyLikesGoodArray.cpp": {
+    "contestId": 1777,
+    "index": "A",
+    "name": "Everybody Likes Good Arrays!",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\ForbiddenInt.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\goalsVictory.cpp": {
+    "contestId": 1877,
+    "index": "A",
+    "name": "Goals of Victory",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\grassHopperLine.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\Helpful_math.cpp": {
+    "contestId": 339,
+    "index": "A",
+    "name": "Helpful Maths",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "800 Rated\\Math\\InsomniaCure.cpp": {
+    "contestId": 148,
+    "index": "A",
+    "name": "Insomnia cure",
+    "type": "PROGRAMMING",
+    "points": 1000.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\LineTrip.cpp": {
+    "contestId": 1901,
+    "index": "A",
+    "name": "Line Trip",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\make_it_beautifull.cpp": {
+    "contestId": 1783,
+    "index": "A",
+    "name": "Make it Beautiful",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings"
+    ]
+  },
+  "800 Rated\\Math\\NewYearAndHurry.cpp": {
+    "contestId": 750,
+    "index": "A",
+    "name": "New Year and Hurry",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\oneAndTwo.cpp": {
+    "contestId": 1788,
+    "index": "A",
+    "name": "One and Two",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\PermutationWarm-up.cpp": {
+    "contestId": 2108,
+    "index": "A",
+    "name": "Permutation Warm-Up",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\restore3Num.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\ServalAndMocha.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\softDrink.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\sumOfRound.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\TargetPractice.cpp": {
+    "contestId": 1873,
+    "index": "C",
+    "name": "Target Practice",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\twoPermutations.cpp": {
+    "contestId": 1761,
+    "index": "A",
+    "name": "Two Permutations",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "800 Rated\\Math\\unitArray.cpp": {
+    "contestId": 1834,
+    "index": "A",
+    "name": "Unit Array",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\UnitArray2.cpp": {
+    "contestId": 1834,
+    "index": "A",
+    "name": "Unit Array",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\unitedWeStand.cpp": {
+    "contestId": 1859,
+    "index": "A",
+    "name": "United We Stand",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "800 Rated\\Math\\vasyaHipster.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\WalkingMaster.cpp": {
+    "contestId": 1806,
+    "index": "A",
+    "name": "Walking Master",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "800 Rated\\Math\\weNeedTheZero.cpp": {
+    "contestId": 1805,
+    "index": "A",
+    "name": "We Need the Zero",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "800 Rated\\Sorting\\amusingJoke.cpp": {
+    "contestId": 141,
+    "index": "A",
+    "name": "Amusing Joke",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "800 Rated\\Sorting\\Jagged_swapped.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Sorting\\MediumNum.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Sorting\\newYrMeet.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\Sorting\\removeSmallest.cpp": {
+    "contestId": 1399,
+    "index": "A",
+    "name": "Remove Smallest",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "800 Rated\\String\\antonDanik.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\String\\antonPolyhedrons.cpp": {
+    "contestId": 785,
+    "index": "A",
+    "name": "Anton and Polyhedrons",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\boyOrGirl.cpp": {
+    "contestId": 236,
+    "index": "A",
+    "name": "Boy or Girl",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\codeforcesCheck.cpp": {
+    "contestId": 1791,
+    "index": "A",
+    "name": "Codeforces Checking",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\CoverInWater.cpp": {
+    "contestId": 1900,
+    "index": "A",
+    "name": "Cover in Water",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\creatingWord.cpp": {
+    "contestId": 1985,
+    "index": "A",
+    "name": "Creating Words",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\loveStory.cpp": {
+    "contestId": 1829,
+    "index": "A",
+    "name": "Love Story",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\Petya_string.cpp": {
+    "contestId": 2062,
+    "index": "A",
+    "name": "String",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "800 Rated\\String\\PolyhedronMap.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\String\\wordCap.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\String\\yesOrYes.cpp": {
+    "contestId": 2178,
+    "index": "A",
+    "name": "Yes or Yes",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "800 Rated\\TwoPointer\\PrependApend.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "800 Rated\\TwoPointer\\SerejaAndDima.cpp": {
+    "contestId": 381,
+    "index": "A",
+    "name": "Sereja and Dima",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "900 Rated\\games\\game1b.cpp": {
+    "contestId": 648,
+    "index": "A",
+    "name": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "900 Rated\\Implemention\\gameWStick.cpp": {
+    "contestId": 648,
+    "index": "A",
+    "name": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "900 Rated\\Math\\evenOdd.cpp": {
+    "contestId": 318,
+    "index": "A",
+    "name": "Even Odds",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "900 Rated\\Math\\evenOdd2.cpp": {
+    "contestId": 648,
+    "index": "A",
+    "name": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "900 Rated\\Math\\multiplyBy2DivideBy6.cpp": {
+    "contestId": 1374,
+    "index": "B",
+    "name": "Multiply by 2, divide by 6",
+    "type": "PROGRAMMING",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "900 Rated\\Math\\theSecretNum.cpp": {
+    "contestId": 648,
+    "index": "A",
+    "name": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "Contest Ques\\DIV .3_30June\\anAlternativeWay.cpp": {
+    "contestId": 2241,
+    "index": "D",
+    "name": "An Alternative Way",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV .3_30June\\divideNConquor.cpp": {
+    "contestId": 1769,
+    "index": "D1",
+    "name": "\u0418\u0433\u0440\u0430 \u0432 \u0414\u0435\u0432\u044f\u0442\u043a\u0443 I",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "brute force",
+      "dp"
+    ]
+  },
+  "Contest Ques\\DIV .3_30June\\goodTimes-goodTimes.cpp": {
+    "contestId": 2241,
+    "index": "B",
+    "name": "Good times Good times",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV. 2_07June\\Euclid-seq-twoNum.cpp": {
+    "contestId": 1769,
+    "index": "D1",
+    "name": "\u0418\u0433\u0440\u0430 \u0432 \u0414\u0435\u0432\u044f\u0442\u043a\u0443 I",
+    "type": "PROGRAMMING",
+    "rating": 1800,
+    "tags": [
+      "*special",
+      "brute force",
+      "dp"
+    ]
+  },
+  "Contest Ques\\DIV. 2_07June\\palidrome.cpp": {
+    "contestId": 1952,
+    "index": "H",
+    "name": "Palindrome",
+    "type": "PROGRAMMING",
+    "tags": [
+      "*special",
+      "implementation",
+      "strings"
+    ]
+  },
+  "Contest Ques\\DIV. 2_23May\\A.cpp": {
+    "contestId": 2249,
+    "index": "F",
+    "name": "Even Simple Path",
+    "type": "PROGRAMMING",
+    "points": 3500.0,
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths"
+    ]
+  },
+  "Contest Ques\\DIV. 2_26July\\q1.cpp": {
+    "contestId": 1971,
+    "index": "H",
+    "name": "\u00b11",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "graphs"
+    ]
+  },
+  "Contest Ques\\DIV. 2_26July\\q2.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV. 2_26July\\q3.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV. 2_27June\\aiFindsNothingHere.cpp": {
+    "contestId": 2240,
+    "index": "B",
+    "name": "AI Finds Nothing Here",
+    "type": "PROGRAMMING",
+    "points": 1250.0,
+    "rating": 1100,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV. 2_27June\\AnotherPopcount.cpp": {
+    "contestId": 1769,
+    "index": "A",
+    "name": "\u0423\u0437\u043a\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "math"
+    ]
+  },
+  "Contest Ques\\DIV. 2_28June\\AnotherPuzzFrPapyrus.cpp": {
+    "contestId": 2238,
+    "index": "A",
+    "name": "Another Puzzle from Papyrus",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "Contest Ques\\DIV. 2_28June\\CrimsonTriples.cpp": {
+    "contestId": 2238,
+    "index": "B",
+    "name": "Crimson Triples",
+    "type": "PROGRAMMING",
+    "points": 750.0,
+    "rating": 900,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "Contest Ques\\DIV. 2_28June\\stormingArasaka.cpp": {
+    "contestId": 2238,
+    "index": "D",
+    "name": "Storming Arasaka",
+    "type": "PROGRAMMING",
+    "points": 1500.0,
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  }
+}
