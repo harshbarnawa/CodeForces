@@ -96,8 +96,8 @@ MAX_EXPECTED = 120  # used for progress-bar scaling (800-lvl has ~115)
 
 
 def build_progress_table(rating_data):
-    """Build the ASCII progress table."""
-    lines = []
+    """Build the ASCII progress table inside a code block."""
+    lines = ["```text"]
     lines.append(f"{'Rating':<10} {'Solved':<8} Progress")
     lines.append("─" * 50)
     total = 0
@@ -111,6 +111,7 @@ def build_progress_table(rating_data):
             lines.append(f"{rating_label:<10} {stars:<8} {count:<5} {bar}")
     lines.append("─" * 50)
     lines.append(f"{'TOTAL':<23} {total} solutions")
+    lines.append("```")
     return "\n".join(lines)
 
 
